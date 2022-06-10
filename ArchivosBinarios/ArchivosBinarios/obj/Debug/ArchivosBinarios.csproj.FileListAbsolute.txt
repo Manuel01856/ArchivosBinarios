@@ -1,0 +1,8 @@
+D:\zazuk\GitHub\ArchivosBinarios\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe.config
+D:\zazuk\GitHub\ArchivosBinarios\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe
+D:\zazuk\GitHub\ArchivosBinarios\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.pdb
+D:\zazuk\GitHub\ArchivosBinarios\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.AssemblyReference.cache
+D:\zazuk\GitHub\ArchivosBinarios\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.SuggestedBindingRedirects.cache
+D:\zazuk\GitHub\ArchivosBinarios\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.CoreCompileInputs.cache
+D:\zazuk\GitHub\ArchivosBinarios\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.exe
+D:\zazuk\GitHub\ArchivosBinarios\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.pdb
